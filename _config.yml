@@ -80,8 +80,8 @@ social:
 
   - name: Facebook
     icon: facebook
-    username: massimilianobernabe
-    url:
+    username: mass.bernabe
+    url: https://www.facebook.com/mass.bernabe
     desc: Friend me on Facebook
     share: true
 
@@ -94,17 +94,17 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: Massimiliano Bernabe
+    url: 
     desc: Connect with me on LinkedIn
-    share: true
+    share: false
 
   - name: Google+
     icon: google-plus
     username:
     url:
     desc: Add me to your Circles
-    share: true
+    share: false
 
   - name: YouTube
     icon: youtube
@@ -125,7 +125,7 @@ social:
     username:
     url:
     desc: Follow me on Pinterest
-    share: true
+    share: false
 
   - name: SoundCloud
     icon: soundcloud
@@ -174,7 +174,7 @@ social:
     username:
     url:
     desc: Share to Reddit
-    share: true
+    share: false
 
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
