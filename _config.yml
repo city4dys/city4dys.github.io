@@ -10,10 +10,10 @@ exclude:
 # Site settings
 title: city4dys
 subtitle: "Immagine all cities accessible ready for dyslexics"
-email: blcentra@gmail.com
-name: Ben Centra
+email: massimiliano.bernabe@gmail.com
+name: Massimiliano Bernabe
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  Immagine all cities accessible ready for dyslexics.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -42,7 +42,7 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: bencentra
+disqus_shortname: develost
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
@@ -73,22 +73,22 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: develost_com
+    url: https://twitter.com/develost_com
     desc: Follow me on Twitter
     share: true
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
+    username: massimilianobernabe
     url:
     desc: Friend me on Facebook
     share: true
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: city4dys
+    url: https://github.com/city4dys
     desc: Fork me on GitHub
     share: false
 
