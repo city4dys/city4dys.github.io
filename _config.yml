@@ -9,6 +9,7 @@ exclude:
 
 # Site settings
 title: city4dys
+domain: city4dys.org
 subtitle: "Immagine all cities accessible ready for dyslexics"
 email: massimiliano.bernabe@gmail.com
 name: Massimiliano Bernabe
