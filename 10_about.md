@@ -97,7 +97,7 @@ BrowseAloud adds speech, reading and translation support to a website facilitati
 
 ## Dyslexia in Europe
 
-From european dyslexia association (http://www.eda-info.eu)
+From [European Dyslexia Association](http://www.eda-info.eu)
 
 According to substantiated scientific estimates, the group of European Citizens with dyslexia and specific learning differences encompasses between 5 and 12 percent of the population,navigating through life in a largely non-'dys' friendly world. 
 
@@ -112,7 +112,7 @@ have a significant influence on the manifestation of difficulties and life-chanc
 
 ### Is help or support necessary for dyslexics?
 
-From european dyslexia association (http://www.eda-info.eu)
+From [European Dyslexia Association](http://www.eda-info.eu)
 
 Despite intelligence and motivation, without appropriate support, children who are dyslexic do not learn as their peers do. However, when diagnosed early, they can be helped to learn with specialist teaching that is success orientated,
 structured and systematic. They will always require a great deal of support and encouragement.
