@@ -8,6 +8,10 @@ A mobile application to make dyslexics capable to travel effectively around citi
 
 <p style="text-align:right"><em>from an idea of Martina Battan and Massimiliano Bernabé</em></p>
 
+<span class="page-divider">
+  <span class="one"></span>
+  <span class="two"></span>
+</span>
 
 ## At a glance
 
