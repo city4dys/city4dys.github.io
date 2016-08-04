@@ -8,5 +8,12 @@ tags:	device android ios
 cover:  "/assets/instacode.png"
 ---
 
+We have to choose between to develop a native mobile application or a web application mobile ready.
 
-todo
+
+|--------|------------|---------|
+| Aspect | Native App | Web App |
+|--------|------------|---------|
+| General idea | It is developed with a particular device in mind and is installed | It is internet-based, it is not downloaded and installed it is accessed. Does not work without internet access.  |
+|--------|------------|---------|
+
