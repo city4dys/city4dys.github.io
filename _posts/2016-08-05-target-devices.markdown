@@ -5,7 +5,7 @@ date:   2016-08-05 00:00:00
 author: Massimiliano Bernabé
 categories: development
 tags:	device android ios
-cover:  "/assets/instacode.png"
+cover:  "/assets/instacode.jpg"
 ---
 
 We have to choose between to develop a native mobile application or a web application mobile ready.
@@ -41,7 +41,7 @@ Now we have to choose which device target first.
 | **Others**        |         0.2% | -      |              |
 |-------------------|--------------|--------|--------------|
 
-Source: [Gartner 02/2016](http://http://www.gartner.com/newsroom/id/3215217)
+Source: [Gartner 02/2016](http://www.gartner.com/newsroom/id/3215217)
 
 So our choice is to target for android first, and to decide later if to target for iOS too depending on feedback received.
 

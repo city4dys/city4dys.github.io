@@ -5,7 +5,7 @@ date:   2016-07-28 00:00:00
 author: Massimiliano Bernabé
 categories: development
 tags:	service test
-cover:  "/assets/instacode.png"
+cover:  "/assets/instacode.jpg"
 ---
 
 We are at the very early stage of the project and we have to start with the basics.
