@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Citizen Science in City4dys
+title: Ten principles of Citizen Science
 permalink: /citizen-science/
 ---
 
-# How the ten principles of Citizen Science are implemented in this project
+This document describes how the ten principles of Citizen Science are implemented in this project.
 
 ## 01
 
-*Citizen science projects actively involve citizens in scientific research. Citizens can act as contributors, collaborators, or as project leader and have a meaningful role in the research project.*
+***Citizen science projects actively involve citizens in scientific research. Citizens can act as contributors, collaborators, or as project leader and have a meaningful role in the research project.***
 
 All the stages of the projects will be carried out by citizens. There will be four roles into the team:
 
