@@ -7,7 +7,19 @@ categories: development
 tags:	service test
 cover:  "/assets/instacode.png"
 ---
-## Website in development
+
+
+adfasdfadsf
+
+
+
+## Task list
+
+ - [ ] Choose a jekyll template
+ - [ ] Create About page
+ - [ ] Create Citizen Science page
+ - 
+
 
 
 
