@@ -4,6 +4,4 @@ title: City4dys App
 permalink: /city4dys-app/
 ---
 
-# The City4dys app
-
-todo describe and link
+todo describe and link the mobile app
