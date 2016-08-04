@@ -4,7 +4,7 @@ title: Acknowledgements
 permalink: /acknowledgements/
 ---
 
-#Rules for mentioning this project
+Describe the rules for mentioning this project
 
-Describe acknowledgements
+TODO
 

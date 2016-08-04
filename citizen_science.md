@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ten principles of Citizen Science
+title: Citizen Science implemented
 permalink: /citizen-science/
 ---
 
