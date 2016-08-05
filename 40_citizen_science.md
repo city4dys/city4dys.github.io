@@ -66,7 +66,7 @@ The only data collected from citizen will be the feedback on the application and
 
 ***Citizen science project data and meta-data are made publically available, and results are published in an open access format. Data sharing may occur during or after the project, unless there are security or privacy concerns that prevent this.***
 
-All the data produced will be in open format, will consume open GTFS data and will produce maps and map services publicity available. Great attention will be put on the licences governing the access of the data.
+All the data produced will be in open format, will consume open GTFS data and will produce maps and map services publicity available. Great attention will be put on the licenses governing the access of the data.
 
 ## 08
 
@@ -90,4 +90,3 @@ Will be better to involve at least one working group chairman and more members.
 ***Citizen science is a flexible concept which can be adapted and applied within diverse situations and disciplines. Citizen science lends itself to cross-disciplinary work, bringing new perspectives and skills to a research project.***
 
 This projects brings the methodologies we know that works in our every day activities from the field of the learning disorders into the field of the Geographical Information Systems with the focus on mobility.
-
