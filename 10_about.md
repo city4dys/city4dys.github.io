@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<p style="text-align:center">A mobile application to make dyslexics capable to travel effectively around cities, mitigating common reading errors. <em>From an idea of Martina Battan and Massimiliano Bernabé.</em><br><br></p>
+<p style="text-align:center">A mobile application to make dyslexics capable to travel effectively around cities, mitigating common reading errors.<br><em>An idea of Martina Battan and Massimiliano Bernabé.</em><br><br></p>
 
 <span class="page-divider">
   <span class="one"></span>
@@ -17,6 +17,16 @@ permalink: /about/
 
 * The primary objective is to help dyslexic to travel effectively around cities.
 * The secondary objective is to raise awareness of the community on the dyslexia reading disorder.
+
+### Advantages of this application
+
+* Advantages for the city
+    * The adopting city can expose the "city4dys" logo near information maps to make dyslexic feel more comfortable while travelling around the city.
+    * Not the application nor the city4dys platform will be used to promote private products through advertisements.
+    * On the contrary there will be the possibility for the city to post messages about the travelling service or to inform the users about special events.
+* Advantages for the user which is dyslexic  
+    * Despite many applications where developed specifically for dyslexics, only one of them is spatially enabled, which is "OpenStreetMap for the dyslexic" made by the same people presenting here this project.
+    * At the city level there is no such application, making travelling quite cumbersome for a dyslexic person.
 
 ### Input and output data
 
@@ -31,25 +41,16 @@ The application will use open mobility information in the format of the General 
 |**calendar_dates** | Exceptions for the service IDs                                                                   |
 |**shapes**         | *Optional* Rules for drawing lines on a map to represent a transit organization's routes.        |
 
-From the [GTFS reference](https://developers.google.com/transit/gtfs/reference/)
+The [GTFS reference](https://developers.google.com/transit/gtfs/reference/)
 
 The output will be a map service of public access presenting travelling informations accessible ready for a dyslexic user. Moreover the city4dys application will enhance the usability of those data adding some specific functionalities.
 
-### Advantages of this application
-
-* Advantages for the city
-    * The adopting city can expose the "city4dys" logo near information maps to make dyslexic feel more comfortable while travelling around the city.
-    * Not the application nor the city4dys platform will be used to promote private products through advertisements.
-    * On the contrary there will be the possibility for the city to post messages about the travelling service or to inform the users about special events.
-* Advantages for the user which is dyslexic  
-    * Despite many applications where developed specifically for dyslexics, only one of them is spatially enabled, which is "OpenStreetMap for the dyslexic" made by the same people presenting here this project.
-    * At the city level there is no such application, making travelling quite cumbersome for a dyslexic person.
 
 ## Some applications for dyslexics, with our comments
 
 ### OpenStreetMap for the dyslexic
 
-From [osm4dys](http://www.osm4dys.org/)
+From [osm4dys.org](http://www.osm4dys.org/)
 
 We made this application which is the first mobile GIS application accessible ready for a dyslexic user. The application is completed and free. Can be founded on Google play at
 https://play.google.com/store/apps/details?id=org.osm4dys.app
@@ -85,7 +86,7 @@ If one part of a map is obsolete, the part can be reproduced.
 
 ### Read&Write (Commercial)
 
-From [texthelp](http://www.texthelp.com/UK)
+From [texthelp.com](http://www.texthelp.com/UK)
 
 Read&Write is an easy-to-use flexible toolbar containing support features to make reading, writing and research easier for the dyslexic. The software has been designed to address some of the issues that people with dyslexia face daily, 
 namely reading difficulties, writing difficulties, problems with spelling and general literacy support, but does not work on images.

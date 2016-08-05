@@ -34,7 +34,7 @@ Now we have to choose which device target first.
 |-------------------|--------------|--------|--------------|
 | Device            | Market share | Trend  |         Note |
 |-------------------|-------------:|:------:|--------------|
-| **Adroid**        |        80.7% | +      | We have a bunch of testing devices | 
+| **Android**       |        80.7% | +      | We have a bunch of testing devices | 
 | **Blackberry**    |         0.2% | -      | We do not have a testing device |
 | **WindowsPhone**  |         1.1% | -      | Our testing device is dead |
 | **iOS**           |        17.7% | -      | We do not have a testing device |
