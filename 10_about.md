@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<p style="text-align:center">A mobile application to make dyslexics capable to travel effectively around cities, mitigating common reading errors.<br><em>An idea of Martina Battan and Massimiliano Bernabé.</em><br><br></p>
+<p style="text-align:center"><em>A mobile application to make dyslexics capable to travel effectively around cities, mitigating common reading errors.</em><br><br></p>
 
 <span class="page-divider">
   <span class="one"></span>
