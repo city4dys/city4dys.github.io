@@ -4,4 +4,6 @@ title: City4dys App
 permalink: /city4dys-app/
 ---
 
-todo describe and link the mobile app
+The app is in development but it is not yet ready.
+
+We will share some screenshots soon.
