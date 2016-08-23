@@ -19,5 +19,5 @@ Don't be afraid if something is not ready, because we are working on it.
  - Create About page
  - Create Citizen Science page
  - Create Acknowledgements page
- - Create a page fro the mobile application
+ - Create a page for the mobile application
 
