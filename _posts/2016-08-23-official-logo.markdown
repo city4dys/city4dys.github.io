@@ -10,8 +10,10 @@ cover:  "/assets/instacode.jpg"
 
 Finally we got it! And it is as simple as 1,2,3!
 
-The official logo of the application is a mashup of the city center signal and the speacke volume button.
+The official logo of the application is a mashup of the city center signal and the speacker volume button.
 
 Moreover we have choosen the color (008a2e) and the style of the application to make the user more comfortable and oriented to a positive behaviour.
 
 ![City4dys logo]({{ site.url }}/assets/logo.png)
+
+Do you like it?
