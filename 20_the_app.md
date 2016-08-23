@@ -1,6 +1,6 @@
 ---
 layout: page
-title: City4dys App
+title: App
 permalink: /city4dys-app/
 ---
 

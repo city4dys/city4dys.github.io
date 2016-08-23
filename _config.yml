@@ -50,7 +50,7 @@ ga_tracking_id: "UA-81641129-1"
 # Category descriptions (for archive pages)
 descriptions:
   - cat: development
-    desc: "Posts describing the development issues."
+    desc: "Posts describing development issues."
 
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Citizen Science implemented
+title: Citizen Science
 permalink: /citizen-science/
 ---
 
