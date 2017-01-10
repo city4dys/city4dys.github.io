@@ -8,7 +8,7 @@ tags:	screenshots
 cover:  "/assets/app_v0.jpg"
 ---
 
-Big advances in the implementation during the winter holidays:
+Big progresses in the implementation during the winter holidays:
 
 ## The map
 The functionality is 90% implemented.
