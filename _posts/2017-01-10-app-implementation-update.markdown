@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Implementation update"
+title:  "App update"
 date:   2017-01-10 00:00:00
 author: Massimiliano Bernabé
 categories: development
